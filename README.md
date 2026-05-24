@@ -1,6 +1,15 @@
 <div align="center"> 
   <img width="788" height="60" alt="Image" src="https://github.com/user-attachments/assets/314dd4ae-a128-4a3a-ab2c-0d113fd907cf" />
 
+ ପ(๑•ᴗ•๑)ଓ
+
+
+<div align="center">
+<img width="113" height="18" alt="Image" src="https://github.com/user-attachments/assets/a266fda1-97e9-49eb-be6a-a3d72d2a80be" />
+<img width="102" height="18" alt="Image" src="https://github.com/user-attachments/assets/ae6b0ba9-ad16-411e-aefa-602a6bbd0add" />
+<img width="69" height="18" alt="Image" src="https://github.com/user-attachments/assets/52a81ee5-ca07-44d2-851e-0d879387ed98" />
+
+
 ૮ • ﻌ - ა
   
 <img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/ac109961-f814-4ee9-a41a-1488e34c8a52" />
