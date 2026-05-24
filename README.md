@@ -4,3 +4,7 @@
 ૮ • ﻌ - ა
   
 <img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/ac109961-f814-4ee9-a41a-1488e34c8a52" />
+
+<div align="center"> 
+<img width="188" height="25" alt="Image" src="https://github.com/user-attachments/assets/fbcdb676-e4a7-486e-ad29-a54574087068" />
+<img width="188" height="25" alt="Image" src="https://github.com/user-attachments/assets/bd630585-0c4d-4494-8f4e-81b7befa796b" />
