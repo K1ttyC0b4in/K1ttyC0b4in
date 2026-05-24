@@ -37,8 +37,16 @@
 <div align="center"> 
 <img width="750" height="39" alt="Image" src="https://github.com/user-attachments/assets/f27a7955-1ac0-4d0b-97e8-46120cbc97c5" />
 
+(:̲̅:̲̅:̲̅[̲̅:♡:]̲̅:̲̅:̲̅:̲̅)
+
+
 <div align="right"> 
-<img width="300" height="278" alt="fm9hbp" src="https://github.com/user-attachments/assets/5b15160e-0481-4a1d-b7e6-7c918dbd2024" />
+  <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31omdb4c4hmltywkqrjw2sfb2y44&cover_image=true&theme=spotify-embed&show_offline=true&background_color=fee7ea&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light">
+  </a>
+</p>
+  <img width="300" height="278" alt="fm9hbp" src="https://github.com/user-attachments/assets/5b15160e-0481-4a1d-b7e6-7c918dbd2024" />
 
 <div align="center"> 
 <img width="788" height="60" alt="Image" src="https://github.com/user-attachments/assets/314dd4ae-a128-4a3a-ab2c-0d113fd907cf" />
